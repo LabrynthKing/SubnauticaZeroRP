@@ -1,4 +1,4 @@
-<img src="media/szrp.png" alt="Hi I Am John Subnautica Below 0">
+<img src=".openmods/media/szrp.png" alt="Hi I Am John Subnautica Below 0">
 
 # SZRP (Subnautica Zero Rich Presence)
 
